@@ -1,0 +1,18 @@
+{
+  "general": {
+    "welcome": "Salama! 👋 Izaho no mpanampy virtoaly an'i ElectroStore. Ahoana no azoko anampiana anao androany?",
+    "agent_writing": "Manoratra ny mpanampy...",
+    "human_agent_title": "Mamindra amin'ny mpanolotsaina olombelona",
+    "human_agent_desc": "Mila mpanolotsaina mampiasa olombelona ny fangatahanao. Azonao atao ny mandefa mailaka na manokatra tapakila (ticket)."
+  },
+  "glossary": {
+    "product": "entana (produit)",
+    "order": "fandaminana (commande)",
+    "delivery": "fandefasana entana (livraison)",
+    "return": "famerenana entana (retour)",
+    "payment": "fandoavam-bola (paiement)",
+    "cart": "harona (panier)",
+    "price": "vidiny (prix)",
+    "discount": "fampidinana vidy (promotion)"
+  }
+}

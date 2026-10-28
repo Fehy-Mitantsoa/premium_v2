@@ -1,0 +1,6 @@
+{
+  "name": "DataCommerce Dashboard",
+  "description": "Tableau de bord d'administration e-commerce intelligent pour mémoire de Master II. Visualisation et gestion complète de l'architecture Laravel 12, Node.js REST API, MongoDB Atlas et des routines d'automation n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

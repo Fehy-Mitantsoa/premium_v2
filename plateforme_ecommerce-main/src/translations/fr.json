@@ -1,0 +1,18 @@
+{
+  "general": {
+    "welcome": "Bonjour ! 👋 Je suis l'assistant virtuel de ElectroStore. Comment puis-je vous aider aujourd'hui ?",
+    "agent_writing": "L'agent est en train d'écrire...",
+    "human_agent_title": "Transférer à un conseiller humain",
+    "human_agent_desc": "Votre demande nécessite l'intervention d'un conseiller. Vous pouvez nous contacter par email ou ticket."
+  },
+  "glossary": {
+    "product": "produit",
+    "order": "commande",
+    "delivery": "livraison",
+    "return": "retour",
+    "payment": "paiement",
+    "cart": "panier",
+    "price": "prix",
+    "discount": "promotion"
+  }
+}

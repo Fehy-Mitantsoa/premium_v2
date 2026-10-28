@@ -1,0 +1,18 @@
+{
+  "general": {
+    "welcome": "Hello! 👋 I am ElectroStore's virtual assistant. How can I help you today?",
+    "agent_writing": "Agent is typing...",
+    "human_agent_title": "Transfer to human agent",
+    "human_agent_desc": "Your request requires human assistance. You can contact us via email or support ticket."
+  },
+  "glossary": {
+    "product": "product",
+    "order": "order",
+    "delivery": "delivery",
+    "return": "return",
+    "payment": "payment",
+    "cart": "cart",
+    "price": "price",
+    "discount": "discount"
+  }
+}

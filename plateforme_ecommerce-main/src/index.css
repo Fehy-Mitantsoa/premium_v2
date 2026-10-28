@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+.iti { width: 100%; display: block; }
+.iti__country-list { background-color: #ffffff; color: #1e293b; border: 1px solid #e2e8f0; }
+html.dark .iti__country-list { background-color: #1e293b; color: #f1f5f9; border-color: #334155; }
+html.dark .iti__country-list .iti__country.iti__highlight { background-color: #334155; }
+
+html.text-size-small {
+  font-size: 14px;
+}
+html.text-size-medium {
+  font-size: 16px;
+}
+html.text-size-large {
+  font-size: 18px;
+}

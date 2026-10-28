@@ -1,0 +1,6 @@
+{
+  "name": "Ecommerce Pro",
+  "description": "Plateforme e-commerce moderne avec authentification complète Google OAuth et inscription par email sécurisée avec code de confirmation à 6 chiffres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
